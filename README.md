@@ -18,3 +18,6 @@ View your app in AI Studio: https://ai.studio/apps/aaac005f-3d4a-4d71-ab7c-2e08d
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+See Preview Here:
+parthu7990.github.io/3d-Website/
