@@ -19,4 +19,4 @@ View your app in AI Studio: https://ai.studio/apps/aaac005f-3d4a-4d71-ab7c-2e08d
 3. Run the app:
    `npm run dev`
 
-See Preview Here: parthu7990.github.io/3d-Website/
+ [See Live Preview Here😎:](https://parthu7990.github.io/3d-website/)
